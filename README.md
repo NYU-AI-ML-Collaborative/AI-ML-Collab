@@ -67,6 +67,6 @@ Members include faculty, researchers, biostatisticians, post-doctoral fellows, g
 
 ## Get involved
 
-We are looking for members who are eager to both learn and contribute. Researchers, students, and practitioners interested in joining or presenting can contact Besa Bauta at Besa.Bauta@nyu.edu. New members complete a short skills and resources inventory so the group can match them with collaborators and shape sessions around the group's interests.
+We are looking for members who are eager to both learn and contribute. Researchers, students, and practitioners interested in joining or presenting can email the group at nyu-ai-ml-collaborative@googlegroups.com. New members complete a short skills and resources inventory so the group can match them with collaborators and shape sessions around the group's interests.
 
 Our sister group, the NYU AI-ML Papers Group, meets weekly to read and discuss papers: https://github.com/NYU-AI-ML-Papers-Group
