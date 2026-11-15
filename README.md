@@ -34,6 +34,12 @@ Sessions follow a simple rhythm:
 - **Real-world case studies:** practical work applying ML to live research datasets, from global mental health trials in low-resource settings to precision health and emergency preparedness.
 - **Open discussion and action items:** Q&A and planning for next steps.
 
+Between sessions, members stay connected through a shared digital hub with channels for announcements, new papers, code snippets, LaTeX help, and the session archive.
+
+### The skills and resources inventory
+
+Members map what they bring and what they need: technical proficiencies (Python, PyTorch, TensorFlow and JAX, the Hugging Face ecosystem, LLM prompting and RAG, cloud compute on AWS, GCP, and Azure, LaTeX, and hardware and CUDA optimization), their hardware and compute access, and the one technical thing they could teach someone else in 15 minutes. The inventory works as a matchmaker, pairing members who are learning a tool with members who can teach it; as a schedule builder, surfacing the topics the group most wants; and as a gap check, showing where the group needs shared resources, such as GPU access.
+
 The Collaborative meets on Zoom on Mondays, 12:00 to 1:00 PM ET. Agendas, flyers, and notes live in the [Meeting notes & info](Meeting%20notes%20%26%20info) folder, and the group's library of books and reference materials is in [Resources](Resources).
 
 ## Season 2 schedule (2026-27)
@@ -61,6 +67,6 @@ Members include faculty, researchers, biostatisticians, post-doctoral fellows, g
 
 ## Get involved
 
-Researchers, students, and practitioners interested in joining or presenting can contact Besa Bauta at Besa.Bauta@nyu.edu.
+We are looking for members who are eager to both learn and contribute. Researchers, students, and practitioners interested in joining or presenting can contact Besa Bauta at Besa.Bauta@nyu.edu. New members complete a short skills and resources inventory so the group can match them with collaborators and shape sessions around the group's interests.
 
 Our sister group, the NYU AI-ML Papers Group, meets weekly to read and discuss papers: https://github.com/NYU-AI-ML-Papers-Group
